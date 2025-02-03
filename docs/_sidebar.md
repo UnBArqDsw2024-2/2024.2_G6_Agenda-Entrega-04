@@ -7,7 +7,7 @@
 - **Arquitetura de Software & Reutilização**
   - [4. Desenho de Software (Arquitetura & Reutilização de Software)](./ArquiteturaReutilizacao/4.ArquiteturaReutilizacao.md)
     - [4.1. DAS](./ArquiteturaReutilizacao/4.1.DAS.md)
-      - [4.1.1 Introdução]()
+      - [4.1.1 Introdução](./itens-das/4.1.1.introducao.md)
       - [4.1.2 Representação Arquitetural](./itens-das/4.1.2.arquitetura.md)
       - [4.1.3 Metas e Restrições arquiteturais](./itens-das/4.1.3.metas.md)
       - [4.1.4 Visualização Caso de Uso](./itens-das/4.1.4.CasosDeUso.md)
