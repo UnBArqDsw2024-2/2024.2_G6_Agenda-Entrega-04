@@ -16,7 +16,7 @@
       - [4.1.7 Visualização de Deploy](./itens-das/4.1.7.deploy.md)
       - [4.1.8 Visualização de Implementação](./itens-das/4.1.8.implementation.md)
       - [4.1.9 Visualização de Dados](./itens-das/4.1.9.dados.md)
-      - [4.1.10 Tamanho e Performance]()
+      - [4.1.10 Tamanho e Performance](./itens-das/4.1.10.tamanho_performance.md)
       - [4.1.11 Qualidade](./itens-das/4.1.11.qualidade.md)
       - [4.1. Visualização de deploy](./itens-das/4.1.deploy.md)
     - [4.2. Reutilização de Software](./ArquiteturaReutilizacao/4.2.ReutilizacaoDeSoftware.md)
